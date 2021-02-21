@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#027AB3</color>
+    <color name="color_primary_dark">#023972</color>
+    <color name="color_accent">#60c1a9</color>
+    <color name="color_medium_green">#2A9FA2</color>
+    <color name="color_divider">#BDBDBD</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_white_light">#B3FFFFFF</color>
+    <color name="color_pink">#C9302C</color>
+    <color name="color_disable">#D5D5D5</color>
+
+    <color name="bg_header">#CACACA</color>
+    <color name="bg_gray_white">#f5f5f5</color>
+    <color name="bg_gray_light">#eeeeee</color>
+    <color name="bg_gray">#e0e0e0</color>
+    <color name="bg_gray_dark">#616161</color>
+    <color name="bg_black_opaque">#99000000</color>
+    <color name="bg_gray_default">#dddddd</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_dark">#313131</color>
+    <color name="text_danger">#e54b4d</color>
+
+    <color name="bubble_my_chat">#2476ae</color>
+    <color name="bubble_other_chat">#878282</color>
+
+    <color name="yellow">#fffff400</color>
+    <color name="orange">#ffffb700</color>
+    <color name="red_dark">#ffbf0000</color>
+    <color name="light_blue">#09C8D6</color>
+    <color name="blue_dark">#ff0044aa</color>
+    <color name="light_green">#13E84B</color>
+    <color name="green">#ff00b600</color>
+    <color name="green_dark">#ff008000</color>
+    <color name="xyz_orange">#EE3B23</color>
+
+    <color name="sienna">#a75b3b</color>
+    <color name="rosy_brown">#c29571</color>
+    <color name="transparent_black">#55000000</color>
+</resources>

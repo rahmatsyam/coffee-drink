@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="o">
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_black" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_blackitalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_bold" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_bolditalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_black" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_extrabold" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_extralight" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_extralightitalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_italic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_light" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_lightitalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_medium" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_mediumitalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_regular" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_semibold" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_semibolditalic" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_thin" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/montserrat_thinitalic" />
+
+</font-family>

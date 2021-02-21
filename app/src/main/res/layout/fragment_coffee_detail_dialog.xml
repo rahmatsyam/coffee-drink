@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/CustomLayoutMain"
+    tools:context=".ui.dialogfragment.CoffeeDetailDialogFragment">
+
+    <ImageView
+        android:id="@+id/iv_coffee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/transparent_black">
+
+        <ImageView
+            android:id="@+id/iv_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_baseline_keyboard_arrow_left_24"
+            app:tint="@color/color_white" />
+
+        <TextView
+            android:id="@+id/tv_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@id/iv_close"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Title"
+            android:textColor="@color/color_white"
+            android:textSize="@dimen/text_medium" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/CustomLayoutMain"
+        android:layout_alignTop="@id/iv_coffee"
+        android:layout_marginTop="190dp"
+        android:background="@drawable/bg_radius_top"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_medium"
+            android:text="Deskripsi"
+            android:textSize="@dimen/text_xsmall" />
+
+        <TextView
+            android:id="@+id/tv_coffee_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_desc"
+            android:fontFamily="@font/montserrat_regular"
+            android:text="@string/example_coffee_desc"
+            android:textSize="@dimen/text_xsmall" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

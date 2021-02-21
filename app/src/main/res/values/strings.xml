@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="example_coffee">Cappucinno</string>
+    <string name="example_coffee_desc">Cappucinno merupakan salah satu jenis minuman kopi yang paling populer di kedai kopi. Kopi ini adalah minuman tradisional Italia, yang terkenal dengan lapisan atasnya berupa foam susu dan biasanya di hias dengan bubuk cokelat. Cappucino dibuat dari dua komposisi utama yaitu textured milk dan espresso dengan rasio 1:1. Namun ada juga yang menggunakan perbandingan 1/3 espresso, 1/3 textured milk dan 1/3 susu foam. Jenis kopi ini disajikan dalam cangkir berkapasitas 88 mililiter hingga 177 mililiter.</string>
+
+    <string-array name="coffee_name">
+        <item>Espresso</item>
+        <item>Cappucinno</item>
+        <item>Americano</item>
+        <item>Ristretto</item>
+        <item>Macchiato</item>
+        <item>Latte</item>
+        <item>Flat White</item>
+        <item>Piccolo latte</item>
+        <item>Mocha</item>
+        <item>Red Eye</item>
+        <item>Affogato</item>
+        <item>Cold Brew</item>
+        <item>Yuangyang</item>
+        <item>Cortado</item>
+        <item>Frappe</item>
+    </string-array>
+
+    <string-array name="coffee_desc">
+        <item>Espresso adalah jenis minuman kopi murni tanpa menggunakan campuran bahan apapun seperti susu dan gula. Biasanya kopi ini digemari oleh orang yang suka dengan rasa kopi yang kuat. Tekstur kopinya yang pekat dan hitam dengan buih putih di atasnya terbentuk dari tekanan minyak dalam biji kopi. Disajikan dalam cangkir khusus espresso berukuran 30 mililiter. Kopi ini juga bisa dibilang yang paling rendah kalorinya.</item>
+        <item>Cappucinno merupakan salah satu jenis minuman kopi yang paling populer di kedai kopi. Kopi ini adalah minuman tradisional Italia, yang terkenal dengan lapisan atasnya berupa foam susu dan biasanya di hias dengan bubuk cokelat. Cappucino dibuat dari dua komposisi utama yaitu textured milk dan espresso dengan rasio 1:1. Namun ada juga yang menggunakan perbandingan 1/3 espresso, 1/3 textured milk dan 1/3 susu foam. Jenis kopi ini disajikan dalam cangkir berkapasitas 88 mililiter hingga 177 mililiter.</item>
+        <item>Jenis minuman kopi americano dikenal juga dengan nama Long Black. Minuman ini masih mirip dengan espresso, yang membedakannya yaitu minuman ini didapat dari mengencerkan espresso. Dengan perbandingan yang tepat yakni 2 bagian espresso dengan 3 bagian air. Minuman ini dapat disajikan dalam keadaan panas atau dingin. Penyajian americano terdiri dari satu shot espresso yang dituang dalam cangkir berukuran 178 mililiter yang dicampur dengan air panas hingga memenuhi gelas.</item>
+        <item>Jenis minuman kopi ristretto masih sama berasal dari Italia berti restricted. Seperti asal katanya ristretto diekstraksi dalam waktu terbatas. Ristretto mirip dengan espresso yang diekstraksi dengan jumlah kopi yang sama namun menggunakan jumlah air yang banyak. Hasil akhirnya adalah ekstraksi espresso yang lebih pekat dan lebih gelap.</item>
+        <item>Macam dari jenis macchiato ini ada dua yakni long dang short. Short macchiato adalah single shot espresso dengan sedikit susu dan busa susu untuk meringankan rasa espresso yang kuat. Sedangkan long macchiato menggunakan double espresso. Untuk menghasilkan macchiato yang nikmat, maka dibutuhkan komposisi kopi dengan susu dengan jumlah perbandingan 4:1.</item>
+        <item>Sebelum kamu memesan jenis minuman kopi pastikan kamu mengetahui bahwa latte dan cappucino merupakan dua racikan berbeda. Bahkan dengan komposisi dan rasio yang berbeda. Latte biasanya menggunakan perbandingan espresso dan susu 2:1. Selain rasanya yang enak dan ringan, latte sering disajikan dalam cangkir dengan moti yang canti di atasnya, atau sering disebut latte art.</item>
+        <item>Kopi ini berasal dari Selandia Baru dan Australia. Sekilas bentuknya mirip dengan latte. Bedanya flat white terbuat dari steamed milk yang berasal dari bawah tabung sehingga lebih creamy dan tidak berbusa. Susu tersebut kemudian dituang di atas espresso. Dari segi rasa flat white lebih kuat dari latte dan lebih lembut dari cappucino. Flat white menggunakan rasio susu lebih banyak dari café latte dan disajikan hampir tanpa foam. Jenis minuman kopi ini biasanya terdiri dari 60 mililiter textured milk alias microfoam atau gelembung yang terbentuk saat susu dipanaskan.</item>
+        <item>Piccolo latte merupakan jenis latte yang disajikan dengan ristretto, dimana kopi ini mengalami ekstraksi espresso yang sangat baik, sehingga menghasilkan kopi yang nikmat. Jenis kopi ini hanya memiliki kadar asam rendah dan memberi sensai rasa pahit dan manis yang berimbang. Tidak seperti varian lainnya kopi ini disajikan di gelas kecil. Namun saat kamu meminum piccolo kamu bisa merasakan intensitas rasa kopi yang dibalut dengan sentuhan rasa susu yang lembut.</item>
+        <item>Sama kopi ini berasal dari salah satu daerah Yaman yakni, Moka. Keunikan dari jenis minuman kopi ini adalah perpaduan dari cokelat yang dicampur dengan espresso dan susu. Perbandingan mocha terbuat dari 1/5 susu 2/5 cokelat dan 2/5 espresso. Orang-orang Eropa sering menyebut kopi ini dengan mochachino.</item>
+        <item>Dari namanya jenis minuman kopi ini terdengar menyeramkan. Namun sebenarnya minuman satu ini terdiri dari espresso dan campuran kopi hitam. Biasanya lebih populer dengan sebutan coffe with espresso. Di beberapa negara kopi ini memiliki nama berbeda seperti black eye, a shot in the dark eye opener.</item>
+        <item>Di Eropa biasanya kopi affogato ini digunakan sebagai pencuci mulut yang disuguhkan selama musim panas dan setelah makan malam. Affogato ini terdiri dari campuran espresso yang kuat dan pahit dengan es krim vanilla yang nikmat. minuman kopi ini akan menjadi pilihan untuk kamu yng suka sensasi rasa tidak biasa dalam secangkir kopi. Kopi ini tercipta dengan perbandingan 2/5 espresso yang dipadukan dengan 3/5 es krim.</item>
+        <item>Seperti namanya kopi ini tidak menggunakan air panas untuk menyeduhnya. Melainkan dengan menggunakan air dingin dengan suhu ruang selama beberapa jam. Sehingga menghasilkan aroma kopi dan rasa yang dihasilkan khas yakni tidak terlaku pahit dan tidak terlalu asam.</item>
+        <item>Memiliki nama yang unik jenis minuman kopi ini berasal dari China dan sekitarnya yang mengacu pada dua hal perempuan dan laki-laki. Uniknya kopi ini juga terdiri dari campuran dua bahan dengan rasio yang sama antara kopi dan teh. Kopi ini sering disebut-sebut dengan minuman romantis karena seperti percintaan laki-laki dan perempuan yang berpadu di dalam satu tegukan.</item>
+        <item>Minuman yang satu ini berasal dari Spanyol dan dai asal kata cortadi berarti memotong. Cortado terdiri dari susu dari espresso dan susu hangat. Perbandingan susu pada kopi adalah 1:1 atau dibeberapa tempat bisa menjadi 1:2. Di Itali cortado juga disebut-sebut mirip dengan macchiato. karena komposisi jenis kopi ini mirip.</item>
+        <item>Frappe diambil dari bahasa Yunani yang berarti es kopi. Frappe adalah minuman es kopi berlapis busa dari campuran kopi instant air, gula, dan es batu yang dikocok atau diblend sehingga membentuk busa.</item>
+    </string-array>
+
+    <string-array name="url_coffee">
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_expresso.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_cappuccino.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_americano.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_ristretto.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_macchiato.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_latte.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_flat_white.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_piccolo_latte.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_mocha.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_red_eye.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_affogato.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_cold_brew.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_yuangyang.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_cortado.jpg</item>
+      <item>https://raw.githubusercontent.com/rahmatsyam/nunukan-info/master/coffee/img_coffee_frappe.jpg</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_name">Rahmat Syam</string>
+    <string name="txt_email">akyrisa03@gmail.com</string>
+    <string name="txt_profile">Profil</string>
+    <string name="txt_coffee_drink">Minuman Kopi</string>
+
+
+</resources>

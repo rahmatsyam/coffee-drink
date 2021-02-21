@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    app:cardUseCompatPadding="true"
+    app:shapeAppearance="@style/ShapeAppearance.MyApp.MediumComponent">
+
+    <RelativeLayout
+        style="@style/CustomLayoutSecond"
+        android:padding="16dp">
+
+        <github.io.rahmatsyam.firstsubmission.util.CornerRadiusImageView
+            android:id="@+id/iv_coffee"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="10dp" />
+
+        <TextView
+            android:fontFamily="@font/montserrat_medium"
+            android:id="@+id/tv_coffee_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/iv_coffee"
+            android:text="@string/example_coffee"
+            tools:ignore="RelativeOverlap" />
+
+        <TextView
+            android:ellipsize="end"
+            android:fontFamily="@font/montserrat_regular"
+            android:textSize="@dimen/text_xsmall"
+            android:id="@+id/tv_coffee_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_coffee_name"
+            android:layout_toEndOf="@id/iv_coffee"
+            android:maxLines="2"
+            android:text="@string/example_coffee_desc" />
+
+        <com.google.android.material.button.MaterialButton
+            android:fontFamily="@font/montserrat_regular"
+            android:id="@+id/btn_more"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_below="@id/tv_coffee_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="@dimen/spacing_small"
+            android:layout_marginTop="@dimen/spacing_small"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:text="Selengkapnya"
+            android:textAllCaps="false"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/text_xsmall" />
+
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>
+
